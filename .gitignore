@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+node_modules
+.eslintcache
+npm-debug.log
+build
+package-lock.json
